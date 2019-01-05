@@ -1,0 +1,1 @@
+<strong class="at-logo"><a href="index"><img src="images/white.png" alt="company logo here"></a></strong>
